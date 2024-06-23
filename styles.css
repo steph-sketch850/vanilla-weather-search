@@ -32,6 +32,10 @@ body {
     margin-top: 22px;
 }
 
+.weather-app-temperature-container {
+    display: flex;
+}
+
 .weather-app-temperature {
     font-size: 88px;
     margin-left: 10px;
