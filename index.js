@@ -56,3 +56,7 @@ let searchFormElement = document.querySelector("#search-form");
 searchFormElement.addEventListener("submit", handleSearchSubmit);
 
 searchCity("Paris");
+
+let forecast = document.querySelector("#forecast");
+
+forecast.innerHTML = ``
